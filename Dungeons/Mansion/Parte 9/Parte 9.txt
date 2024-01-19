@@ -1,0 +1,14 @@
+Apos entrar na parte 9, o porta se fecha sozinha com muita força e não abre por nada. A porta tem 500 PA para ser destruida.
+
+(PORTA HP - 500/500)
+
+É uma capela com uma aura boa, leve, totalmente diferente do resto dos comodos, há 6 bancos, 2 estantes de livros e 2 comodas
+
+Nas estantes de livros terá só 1 livro repetido, que é uma biblia em que está escrito "Morra" em todas as 680 paginas.
+
+Nas comodas terá 1 lingote de prata e 20 PO 
+
+No final da capela tem um altar com uma especie de grimorio em cima, com a marca de uma mão ali, o jogador que se aproximar ficará com vontade de encostar a mao no grimorio.
+
+Apos relar no grimorio irá para a parte 16
+

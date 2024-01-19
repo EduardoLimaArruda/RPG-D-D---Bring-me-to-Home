@@ -1,0 +1,5 @@
+Um corredor todo deformado e extramente violento, varios corpos jogados pelo chao, os jogadores terão de andar sobre os corpos
+
+Se tentar vasculhar um dos corpos fará um teste de CON CD 8 para evitar de tomar 1 de PA, se fracassar, fará outro CON CD 10 para evitar ficar envenenado
+
+Há 1 PO vasculhando os corpos

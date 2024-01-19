@@ -1,0 +1,29 @@
+LvL 2 - Escolha um deus:
+
+Dwayna é a deusa da cura, ar e vida.
+
+Balthazar é o deus da guerra, fogo e desafio.
+
+
+
+
+Após escolher um deus receba um dos atributos:
+
+Dwayna: +1 CAR
+
+Balthazar: +1 FOR
+
+
+LvL 3 - Ganhe proficiencia em Religião, se ja tiver, dobre a proficiencia
+
+
+LvL 5 - Oração: Quando orar á seu deus rode um dado 1d5+Religiao+Nivel e o resultado será aplicado em habilidades/magias especificas (Ex: Salvação (Dwayna)). Não pode orar em combate. Oração dura 1 á 5 minutos.
+
+
+LvL 15 - Pastor: Pode gastar sua oração para emprestar uma habilidade/magia lvl 10 ou menos do seu deus á um aliado (uma vez por descanso longo).
+
+
+
+
+
+

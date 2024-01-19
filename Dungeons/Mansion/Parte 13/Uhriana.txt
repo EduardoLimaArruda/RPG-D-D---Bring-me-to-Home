@@ -1,0 +1,40 @@
+Equipamento:
+
+Foice de Sangue (1d8) (Versátil: 1d10)
+
+Foice de Sangue Kami (1d4)
+
+
+Skills com a Foice de Sangue:
+
+Invocação Sanguinária: Uhriana consegue invocar sua "Foice de Sangue" de qualquer gota de sangue que estiver presente em seu comodo num raio de 24m. Ação Bonus.
+
+Retorno da Foice: Uhriana consegue arremessar sua foice causando 1d8 de dano cortante e recuperando-a em seguida (Não gasta ação bonus).
+
+Recuperação Vampirica: Quando atingir o inimigo, 100% do dano causado será convertido em PA. Uma vez por descanso longo.
+
+
+Skills com Foice de Sangue Kami:
+
+Invocação Sanguinária: Uhriana consegue invocar sua "Foice de Sangue Kami" de qualquer gota de sangue que estiver presente em seu comodo num raio de 24m. Ação Bonus.
+
+Arremesso Implacavel: Uhriana arremessa suas Kamis (escolhendo até 2 alvos) causando 1d4 de dano e fazendo surgir uma corrente de sangue entre ela e suas kamis, puxando os inimigos para serem derrubados. CON nega CD 10. Uma vez por descanso longo.
+
+Negligencia: Quando Uhriana estiver usando apenas uma Kami ela pode usar um ataque extra.
+
+
+Skills:
+
+Beijo Drenador: O corruptor beija uma criatura enfeitiçada por ele ou uma criatura voluntária. O alvo deve realizar um teste de resistência de Constituição CD 15 contra essa mágica, sofrendo 32 (5d10 + 5) de dano psíquico se fracassar na resistência, ou metade desse dano se obtiver sucesso. O máximo de pontos de vida do alvo é reduzido num valor igual ao dano sofrido. Essa redução dura até o alvo terminar um descanso longo. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0.
+
+Elo de Irmãs Prisania: Toda magia positiva que Uhriana receber, Prisania tambem receberá.
+
+
+
+
+
+
+
+
+
+

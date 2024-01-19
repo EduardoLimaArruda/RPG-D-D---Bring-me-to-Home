@@ -1,0 +1,56 @@
+1 - Pele de Pedra: Quando entrar em combate ganhe +3 CA. Sua pele fica bem robusta e aspera.
+
+
+
+5 - Pele de Pedra+: Ganhe +2CA permanentamente.
+
+
+
+10 - Escudo Elemental: Você gera um escudo com o tamanho do seu personagem. Para definir o elemento do seu escudo você deve tocar em algo. Tipos de escudo:
+
+Escudo de Pedra - +3 CA / Escudo de Pedra
+
+Escudo de Gelo - +1 CA / Raio de Gelo: Ataque a distância de 8m causa 1d8 frio e diminui deslocamento de alvo em 3m por 1 turno
+
+Escudo de Grama - +1 CA / Enraizamento: Após sofrer um ataque, enraiza o alvo durante 1 turno (DES Nega)
+
+Escudo de Fogo - +2 CA / Disparo de Fogo: Ataque a distância de 8m causa 1d10 fogo.
+
+Escudo de Ar - 0 CA / Impulsão: Consegue disparar uma rajada de vento que empurra os inimigos á 10m de distancia (DES/CON Nega)
+
+Escudo de Raio - +2 CA / Disparo de Raio: Ataque a distância de 8m causa 1d10 elétrico.
+
+
+Só pode ser usado 2 vezes por descanso longo.
+
+
+
+15 - Golem Elemental: Ao tocar em algo você pode definir o elemento para se transformar em um Golem. Cada Golem tem uma ficha separada. Ao morrer na forma de golem, volta ao seu corpo normal. Enquanto na forma de Golem você ainda mantem sua consciencia porem não poderá usar magia e habilidades. Todos os Golens tem de 4-6 metros. A habilidade dura 10 turnos e só pode ser usada 1 vez a cada 3 descansos longos.
+
+
+20 - Explosão Elemental: Você gera um escudo com todos os elementos e seus efeitos de uma vez só, depois quintiplica a CA obtida. Você invoca todos seus golens de uma vez só com a duração de 5 horas.
+
+  Você consegue criar uma fortaleza de pedra e as muralhas teram um elemento que desejar que dura:
+
+Pedra: Extremamente resistente, sendo quase impossivel de ser destruida 
+
+Gelo: Quem se aproximar das muralhas da fortaleza terá o deslocamento diminuido pela metade (DES Nega).
+
+Grama/Natureza: Uma muralha feita de Madeira e Grama não inflamaveis que enraizam qualquer um que se aproxime (DES Nega).
+
+Fogo: Muralha feita de Magma que causa 2d4 de dano fogo para qualquer umn que se aproxime
+
+Ar: A muravalha fica em um constante fluxo de ar e muito rapido, impedido que criaturas ultrapassem. Quem tenta atravessar a força, sera esmagado pela pressão do fluxo tomando 4d10 e sendo empurrado pra fora.
+
+Raio: É uma muralha com nuvens negras e soltando raios, quem tente passar pela muralha ficará paralisado (DES Nega) e receberá 1d10 de dano.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+1 - Aceleração Implacavel: Acelera sua corrente sanguinia e recebe:
+
++ 2 DES
++ 5m deslocamento
+
+
+Usando Aceleração Implacavel você ganha um ataque extra. Habilidade de Ação Bonus. Dura 5 turnos. Uma vez por descanso longo.
+
+
+
+5 - Desvio Rápido: Quando for alvo de um ataque de longo alcance e/ou magias consegue rodar um dado 1d20+DES CD 14 para desviar deste ataque. Magia de Reação. Pode ser usado 3 vezes por descanso longo.
+
+
+
+10 - Alta Velocidade: Recebe vantagem para testes de DES e ganha uma ação extra. Seus truques são considerados ação bonus e se caso não tiver nenhum truque, recebe mais um ataque extra. Dura 5 turnos. Uma vez por descanso longo.
+
+
+15 - Reflexos Avançados: Cria 5 clones para confundir ataques inimigos. Cada clone aumenta em 10 CA. Quando for atacado por um inimigo e ele errar, você perde 1 clone. Se for atingido por um ataque em area consegue se deslocar rapidamente para fora da area:
+
+Area de 0-3m Perde 1 Clone
+Area de 4-7m Perde 2 Clones
+Area de 8-10m Perde 3 Clones
+Area de 11-13m Perde 4 Clones
+Area de 14-15m Perde 5 Clones
+
+Caso não tenha clones os suficiente para sair da área você vai o mais longe o possivel se quiser.
+
+Quando acabar os clones ganha +2 DES durante 3 turnos.
+
+
+20 - Za Warudo: Ao usar essa habilidade você para o tempo por 3 turnos. Existem 2 testes de resistencia contra essa habilidade:
+
+- 1d20+INT CD 18 - Ao passar nesse teste, o alvo consegue ver o que acontece enquanto durar a habilidade
+
+- 1d20+DES CD 30 - Ao passar nesse teste, o alvo consegue se ver e se mover enquanto durar a habilidade.
+
+
+Todos seus ataques contra inimigos que falharem no teste de DES são criticos e com vantagem. O CA de todos contra você enquanto estiver na habilidade decai para 2.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,37 @@
+1 - Lobo Solitário: Quando estiver sozinho (ou achar que está sozinho), ganha os seguintes atributos:
+
++ 1 CA
++ 1 FOR
++ 5 PA Temporarios
+
+Este efeito se ativa sozinho após entrar sozinho em um combate. Caso não queria ativar CD 12 FOR. 1 vez por descanso curto.
+
+
+
+5 - Fornalha da alma: Você se enfurece e sua pele fica toda avermelhada, sua temperatura corporal sobe muito e começa a soltar vapor de sua pele. Quem encostar em você sem proteção na parte que encostou, tomara 1d10 de dano flamejante. Você ficará imune a dano de fogo. Inimigos com menos de 6 INT recerão medo por 2 turnos, CON nega. Duração de 4 turnos. 1 vez por dencanso longo.
+
+
+
+10 - Lobo Não-Solitário: Ativa o efeito "Lobo Solitário" mesmo se estivar com aliados e todos os aliados se beneficiam dos atributos. 1 vez por descanso curto.
+
+10 - Ganha 1 pericia e um talento.
+
+
+
+15 - Explosão de raiva: Começa a sair chamas de sua pele e se cria uma aura de fogo em volta de si. Qualquer um que se aproximar a 3m de você tomará 1d10 de dano flamejante e ficará em chamas recebendo 1d6 de dano flamejante por 10 turnos. Você iluminará em um raio de 15m. Concentração, max 10 turnos. 1 vez por descanso longo.
+
+
+
+20 - Furia: Seu sangue borbulha do calor de sua raiva, você se sente mais rapido, mais forte, imbativel e imortal. Todo inimigo á 10m fará um teste de resistencia de Medo 1d20+INT CD 10. 
+
+ - Você se torna imune á medo, petrificação, preso, paralisado, agarrão, exaustão, envenamento, enfeitaçado, cegueira, atordoamento e não pode ser agarrado. 
+
+ - Você é imune á dano cortante, perfurante, contundente, flamejante, gélido, trovão, eletrico, radiante, necrotico e psiquico.
+
+Magias direcionadas á você são dissipadas (10 magias)
+
+ Seus sentidos estão apurados, você não pode ser surpreso e consegue ver invisibilidade.
+
+  Todo seu ataque é critico e após matar um alvo você recebe "Palavra da Cura nv2" para si.
+
+Uma vez a cada 3 descansos longos.

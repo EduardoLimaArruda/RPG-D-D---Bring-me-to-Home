@@ -1,0 +1,8 @@
+LvL 5 - Salvação: Após ficar com metade da vida, recebe uma benção de Dwayna e se cura em 1d10+Oração. Se seu PA chegar a 0, ganha 1 salvaguarda sem precisar rodar dado. 1 vez por descanso longo
+
+
+LvL 15 - Oceano de Dwayna: Invoca um portal onde absorve até 10 inimigos e seus aliados para dentro dele 1d20+CON CD 18. Dentro do portal é apenas um oceano sem fim com 30m de profundidade e alguns monstros maritimos que atacaram os inimigos por turno causando 1d10+Oração a todos eles. Todos os inimigos afundarão na água a não ser que: Saiba voar ou saiba andar sobre a água. Todos os aliados podem andar sobre a água e poderão mergulhar a hora que quiser. Dura apenas 5 turnos. Uma vez a cada descanso longo. 
+
+
+LvL 20 - Ouça o chamado: Dwayna aparece em forma de espirito atrás de você (tipo stand de JoJo) e faz uma chuva milagrosa numa área de 15m que dura 1 minuto. Todos os aliados dentro dessa chuva se curam 10d10+Oração e quem estiver morto se ressucita com 1 PA. Cura Envenenamento, Atordodado, Assustado, Cego, Enfeitiçado, Exaustão, Incapacitado, Inconsciente, Paralisado, Petrificado, Preso e Surdo. Todos os inimigos dentro dessa chuva ganharam Exaustão nivel 3 enquanto permanecerem na chuva. Enquanto estiver chovendo você não receberá qualquer tipo de dano ou efeito, porem não poderá atacar. Quando a chuva acabar Dwayna desaparece deixando para você uma benção que te dá 10d5 de PA temporario e seu proximo ataque dará 2d100 de dano.
+

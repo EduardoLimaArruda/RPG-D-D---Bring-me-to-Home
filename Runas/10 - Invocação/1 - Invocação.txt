@@ -1,0 +1,9 @@
+1 - Escolha um dos caminhos da invocação:
+
+Abismo - Para usar as invocações do abismo você precisa estar segurando uma flor roxa.
+
+Natureza - Para usar as invocações da Natureza você precisar estar segurando um totem de madeira qualquer.
+
+Necromancia - Para usar as invocações da Necromancia você precisa estar segurando um osso humano.
+
+

@@ -1,0 +1,27 @@
+1 - Favoritismo: Escolhe 1 alvo para ser o seu favorito. No nivel 5 pode escolher 5 alvos. Para marcar um alvo como favorito ele deve estar no alcance da sua visão
+
+
+1 - Comunicação Universal: Consegue conversar com seu alvo favorito telepaticamente independente da distancia entre os dois.
+
+
+
+5 - Clarear mente: Deixe seu alvo favorito imune a enfeitiçar e medo. O Proximo ataque do seu favorito é com vantagem. 3 vezes por descanso curto
+
+
+10 - Conhecimento excessivo: Todos seus talentos e proficiencias são passados para o seu alvo favorito durante 1 hora. 1 vez por descanso longo.
+
+
+
+15 - Linguagem Universal: Você adquire o conhecimento de todos os idiomas e tambem consegue criar novos diomas em questão de segundos apenas meditando. Você pode colocar atributos ou proficiencias adicionais pra quem aprende a sua linguagem nova. Exemplo:
+
+                            " Lingua Nova - +1 CAR +1 INT e proficiencia em Atuação "
+
+A linguagem nova pode ter +1 em tres atributos ou 3 proficiencias ou variavel desses 2 como o exemplo acima.
+
+Ao criar uma linguagem nova, você pode ensinar seus alvos favoritos tocando eles.
+
+Só poderá criar outra lingaguem após 365 dias.
+
+
+
+20 - Conexão Astral: Sua alma abandona seu corpo e consegue ir até o plano divino e consegue conversar com um deus que quiser durante 1 minuto. Durante a conversa seus modificadores sao duplicados e você tem todas proficiencias e talentos possiveis.

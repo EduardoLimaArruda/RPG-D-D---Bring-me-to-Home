@@ -1,0 +1,64 @@
+LvL 1: Criação Espectral - cria uma das seguintes armas:
+
+Adaga Espectral - 2d4
+
+Arco Curto Espectral (Quando começa a preparar o tiro surge uma flecha já posicionada) - 2d6
+
+Arco Longo Espectral (Quando começa a preparar o tiro surge uma flecha já posicionada) - 2d8
+
+Chicote Espectral - 2d4
+
+Cimitarra Espectral - 2d6
+
+Espada Curta Espectral - 2d6 
+
+Espada Duas Lâminas Espectral - 3d6
+
+Espada Longa Espectral - 2d8 (Versátil 2d10)
+
+Espada Montante Espectral - 2d12 (Requer 50PO)
+
+Faca Espectral - 1d3
+
+Florete Espectral - 2d8
+
+Lança de Montaria Espectral - 2d12
+
+Machado Espectral - 2d8
+
+Machado Grande Espectral - 2d12
+
+Pique Espectral - 2d10
+
+
+• As armas tem duração de 1 hora;
+• Pode invocar até 3 armas por descanso longo;
+• Pode fazer a(s) arma(s) sumir(em) na hora que quiser;
+• Melhoria de dano d1 a cada 2 lvl's
+  Exemplo: Adaga LVL 3 - 2d5; LVL 5 - 2d6; LVL 9 2d8; LVL 11 2d9;
+
+
+
+LvL 5: Você ou o Aliado que estiver segurando uma arma espectral ganha os seguintes beneficios:
+
+• +3m de deslocamento
+• Role 1d5 para dano bonus
+• Vantagem em testes
+• Não pode receber ataques de oportunidade
+
+
+LvL 10: Checkpoint: Deixa uma marca no chão que só pode ser removida pelo usuario da magia. Você pode criar um portal dimensional de qualquer lugar que teletransportará quem entrar neste portal para o local marcado. Portal dura 1 minuto. Portal causa efeito assustado a inimigos. Se algo indesejado passar pelo portal tomara 10d10 de dano. Só pode deixar deixar uma nova marca ou criar um novo portal a cada descanso longo.
+
+
+LvL 15: Cria uma torre impenetravel em uma area de 75m³. A torre não tem janelas ou portas mas é bem iluminada por dentro e o jeito que é mobiliada depende do criador da torre. A torre tem de 5 a 20 andares (depende do criador). Os aliados que fizerem um descanso curto dentro da torre receberão 10d10 de cura (apenas uma vez). Inimigos com nivel 3 ou menos de desafio sufocam e morrem dentro da torre. A torre dura no max 1 hora
+
+
+Lvl 20: Criação Suprema: Você transcedeu em seu nivel de criação, você ambicia o onipotente e assim consegue criar uma area circular em volta de você de 1 a 15m de largura e de 3 a 20m de altura (depende do usuário) onde você controla o que acontece ali dentro. Qualquer um dentro desta habilidade não pode se mexer, falar ou até mesmo respirar sem sua permissão e você podendo aplicar qualquer condição ao alvo e a você mesmo. Você pode criar qualquer coisa lá dentro, desde uma colher até uma espada divina usada por deuses, e sem limites para criações. Você pode mudar o ambiente da area conforme você quiser, de inicio parece que aquela área é uma pedaço do espaço sideral. Para escapar de sua Criação Suprema o alvo deverá fazer um teste 1d20+INT CD 18 para conseguir fugir da área. Ninguem de fora da área consegue entrar a não ser que o usuario da habilidade permita. Só pode ser usada uma vez a cada 7 descansos longos.
+
+
+
+
+
+
+
+

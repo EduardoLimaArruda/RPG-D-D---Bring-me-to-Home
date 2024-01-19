@@ -1,0 +1,33 @@
+Equipamentos:
+
+Cajado de Sangue 1d6 (Versátil 1d8)
+
+
+Skills:
+
+Elo de Irmãs Uhriana: Toda magia positiva que Prisania receber, Uhriana tambem receberá
+
+Escudo de Sangue (V, G): Conjura um escudo em um aliado ou em si mesmo feito de sangue que aumenta seu CA em 1 durante 3 turnos. Ação Bonus.
+
+Dardos de sangue (V, G): Lança 3 dardos de sangue causando 2d4 de dano cada.
+
+Enfeitiçar Pessoa (V, G): Humanoide a até 9m é Enfeitiçado. Ao final alvo sabe que foi enfeitiçado. SAB nega, com vantagem se você ou seus aliados estiverem o enfrentando. 1 hora ou até sofrer efeito negativo por você ou seus aliados. 1 hora.
+
+Sono (V, G, M): Área de 6m a até 27m coloca criaturas par dormir. Role 5d8, esse é o total de PA afetados, começando por criaturas com menor PA atual. Um alvo dorme pela duração, até sofrer dano ou ser acordado. 1 minuto.
+
+Imobilizar Pessoa (V, G, M): Humanoide a até 27m fica paralisado. Ao final de cada turno alvo pode tentar um novo teste de resistência. SAB nega. Concentração, max 1 minuto.
+
+Comando (V): Alvo a até 18m obedece um comando de uma única palavra por 1 turno. SAB nega. Melhoria: +1 alvo / nível acima.
+
+Contramágica (V): Com uma Reação interrompe magia de alvo. Se estiver conjurando magia de nível 3 ou menor magia é dissipada. Se 4 ou mais faça teste de Chave contra CD 10 + Nível para dissipá-la. Melhoria: +1 nível interrompido automaticamente / nível acima.
+
+Dissipar Magia (V, G): Dissipar todas magias de nível 3 ou menor em alvo a até 36m. Para magias de nível 4 ou superior faz teste de Chave contra CD 10 + Nível da Magia. Melhoria: +1 nível dissipado automaticamente / nível acima.
+
+
+
+ 
+
+
+
+
+
